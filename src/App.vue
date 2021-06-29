@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 양준영 App" />
+  <HelloWorld msg="테스트 성공!" />
 </template>
 
 <script>
