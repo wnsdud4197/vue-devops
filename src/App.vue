@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="테스트 성공!" />
+  <HelloWorld msg="jenkins CI/CD!" />
 </template>
 
 <script>
